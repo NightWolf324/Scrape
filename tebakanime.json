@@ -1,58 +1,28 @@
 [
-  {
-    "index": 0,
-    "img": "https://telegra.ph/file/624782ff3b051ffcd0d80.jpg",
-    "jawaban": "Spy X Family"
-  },
-  {
-    "index": 1,
-    "img": "https://telegra.ph/file/8eccf4587b127a6ed60cb.jpg",
-    "jawaban": "Sword Art Online"
-  },
-  {
-    "index": 2,
-    "img": "https://telegra.ph/file/6cbb53544711b6ebd47d8.jpg",
-    "jawaban": "Konosuba"
-  },
-  {
-    "index": 3,
-    "img": "https://telegra.ph/file/c1d0bc89997e2cdb1bd31.jpg",
-    "jawaban": "Gotobun No Hayanome"
-  },
-  {
-    "index": 4,
-    "img": "https://telegra.ph/file/f685e07a283a0af9c9ca4.jpg",
-    "jawaban": "Date A Live"
-  },
-  {
-    "index": 5,
-    "img": "https://telegra.ph/file/de1ac3b3586f3a0164287.jpg",
-    "jawaban": "Overlord"
-  }
-  {
-    "index": 6,
-    "img": "",
-    "jawaban": ""
-  },
-  {
-    "index": 7,
-    "img": "",
-    "jawaban": ""
-  },
-  {
-    "index": 8,
-    "img": "",
-    "jawaban": ""
-  },
-  {
-    "index": 9,
-    "img": "",
-    "jawaban": ""
-  },
-  {
-    "index": 10,
-    "img": "",
-    "jawaban": ""
-  }
+  
+      {
+          "img": "https://telegra.ph/file/624782ff3b051ffcd0d80.jpg",
+          "jawaban": "Spy X Family"
+          },
+      {
+          "img": "https://telegra.ph/file/8eccf4587b127a6ed60cb.jpg",
+          "jawaban": "Sword Art Online"
+          },
+      {
+          "img": "https://telegra.ph/file/6cbb53544711b6ebd47d8.jpg",
+          "jawaban": "Konosuba"
+          },
+      {
+          "img": "https://telegra.ph/file/c1d0bc89997e2cdb1bd31.jpg",
+          "jawaban": "Gotobun No Hayanome"
+          },
+      {
+          "img": "https://telegra.ph/file/f685e07a283a0af9c9ca4.jpg",
+          "jawaban": "Date A Live"
+          },
+      {
+          "img": "https://telegra.ph/file/de1ac3b3586f3a0164287.jpg",
+          "jawaban": "Overlord"
+          }
 ]
   
